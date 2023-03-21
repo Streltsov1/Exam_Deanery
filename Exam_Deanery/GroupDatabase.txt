@@ -1,0 +1,18 @@
+<GROUP>
+RI31
+2
+Math Oleksander Grigirivich
+English Ivan Dmitriyovich
+3
+Mark t 20
+Oleg s 20
+Misha b 30
+<GROUP>
+KN11
+2
+Math Oleksander Grigirivich
+English Ivan Dmitriyovich
+3
+Luda G 20
+Danya P 50
+Hrop O 30
